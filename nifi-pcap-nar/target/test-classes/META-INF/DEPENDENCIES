@@ -1,0 +1,31 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+nifi-pcap-nar
+
+
+From: 'an unknown organization'
+  - Pkts Buffer Lib (http://nexus.sonatype.org/oss-repository-hosting.html/pkts-parent/pkts-buffers) io.pkts:pkts-buffers:jar:3.0.5
+    License: MIT License  (http://www.opensource.org/licenses/mit-license.php)
+  - Core Pkts (http://nexus.sonatype.org/oss-repository-hosting.html/pkts-parent/pkts-core) io.pkts:pkts-core:jar:3.0.5
+    License: MIT License  (http://www.opensource.org/licenses/mit-license.php)
+  - Session Description Protocol Lib (http://nexus.sonatype.org/oss-repository-hosting.html/pkts-parent/pkts-sdp) io.pkts:pkts-sdp:jar:3.0.5
+    License: MIT License  (http://www.opensource.org/licenses/mit-license.php)
+  - SIP Framer and Parser Library (http://nexus.sonatype.org/oss-repository-hosting.html/pkts-parent/pkts-sip) io.pkts:pkts-sip:jar:3.0.5
+    License: MIT License  (http://www.opensource.org/licenses/mit-license.php)
+  - Pkts Streams (http://nexus.sonatype.org/oss-repository-hosting.html/pkts-parent/pkts-streams) io.pkts:pkts-streams:jar:3.0.5
+    License: MIT License  (http://www.opensource.org/licenses/mit-license.php)
+  - jain-sip-ri (http://jain-sip.dev.java.net) javax.sip:jain-sip-ri:jar:1.2.159
+
+
+From: 'Apache NiFi Project' (https://nifi.apache.org/)
+  - nifi-pcap-processors (https://nifi.apache.org/nifi-nar-bundles/pcap-processor/nifi-pcap-processors) org.apache.nifi:nifi-pcap-processors:jar:1.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-utils (https://nifi.apache.org/nifi-commons/nifi-utils) org.apache.nifi:nifi-utils:jar:1.10.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+
+
+
